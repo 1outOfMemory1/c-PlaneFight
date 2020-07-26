@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/背景图片.jpg</file>
+        <file>res/背景图片_看图王.jpg</file>
+        <file>res/icon.ico</file>
+    </qresource>
+</RCC>

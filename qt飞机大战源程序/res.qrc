@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/favicon.ico</file>
+        <file>res/background.jpg</file>
+        <file>res/me.bmp</file>
+        <file>res/bullet.bmp</file>
+        <file>res/enemyFromDown.bmp</file>
+        <file>res/enemyFromUp.bmp</file>
+        <file>res/enemybullet.BMP</file>
+        <file>res/bomb1.BMP</file>
+        <file>res/bomb2.BMP</file>
+        <file>res/bomb3.BMP</file>
+        <file>res/bomb4.BMP</file>
+        <file>res/bomb5.BMP</file>
+        <file>res/bomb6.BMP</file>
+        <file>res/bomb7.BMP</file>
+        <file>res/bomb8.BMP</file>
+    </qresource>
+</RCC>
